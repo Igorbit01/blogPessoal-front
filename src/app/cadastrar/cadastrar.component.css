@@ -1,7 +1,28 @@
 #img-bg{
-    background-image: url('../../assets/img/eb675d3b0a05b0397b40e026ebf4c2af.jpg');
-    min-width: 500px;
+    background-image: url('../../assets/img/free-student-vectors.jpg');
+    min-width: 800x;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.f-17{
+    font-size: 17px;
+  }
+  
+  .form-group:hover{
+    transition-duration: 300ms;
+    font-size: 20px;
+  }
+  
+  .form-group{
+    transition-duration: 300ms;
+  }
+  .cadastroBox{
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    border-width: 10px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 8%;
+    margin-top: 7%;
+  }
